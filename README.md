@@ -1,2 +1,2 @@
 # bitblocks-site
-bitblocks.cc website
+https://www.bitblocks.cc website
